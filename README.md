@@ -12,10 +12,11 @@
 <br/>
 
 ## 📸 Project Showcase
+[jkcgs-30-3-133-g8.tif](https://github.com/user-attachments/files/24695546/jkcgs-30-3-133-g8.tif)
+[jkcgs-30-3-133-g9.tif](https://github.com/user-attachments/files/24695547/jkcgs-30-3-133-g9.tif)
+[jkcgs-30-3-133-g12.tif](https://github.com/user-attachments/files/24695548/jkcgs-30-3-133-g12.tif)
 
-![Demo Preview]([samples/jkcgs-30-3-133-g12.tif](https://github.com/wns5255/Location-Based-XR/blob/7030614618bb94ec468930c3acd985636ce4ee96/samples/jkcgs-30-3-133-g12.tif)
-![Demo Preview](samples/jkcgs-30-3-133-g8.tif)
-![Demo Preview](samples/jkcgs-30-3-133-g9.tif)
+
 
 <br/>
 
