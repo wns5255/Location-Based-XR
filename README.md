@@ -15,8 +15,9 @@
 
 > 아래 이미지는 예시입니다. `samples/` 폴더에 캡처를 넣고 경로를 맞춰주세요.
 
-![Demo Preview](samples/demo_01.png)
-![Demo Preview](samples/demo_02.png)
+![Demo Preview](samples/jkcgs-30-3-133-g12.tif)
+![Demo Preview](samples/jkcgs-30-3-133-g8.tif)
+![Demo Preview](samples/jkcgs-30-3-133-g9.tif)
 
 <br/>
 
