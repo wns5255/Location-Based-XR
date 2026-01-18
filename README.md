@@ -12,11 +12,9 @@
 <br/>
 
 ## 📸 Project Showcase
-![jkcgs-30-3-133-g12](https://github.com/user-attachments/assets/cac2dd19-f371-434b-833d-165bb07ba191)
-![jkcgs-30-3-133-g9](https://github.com/user-attachments/assets/c82f4232-6edb-4415-a02d-5cbe5109f528)
-![jkcgs-30-3-133-g8](https://github.com/user-attachments/assets/d3821b81-8bf1-42b2-9231-7f432c806f6c)
-
-
+<img width="1081" height="425" alt="image" src="https://github.com/user-attachments/assets/195be2c8-417a-4b90-ac0c-a78c72a57875" />
+<img width="1059" height="520" alt="image" src="https://github.com/user-attachments/assets/96d42a9a-68d3-440d-b518-4fd4e02c2d3c" />
+<img width="1080" height="313" alt="image" src="https://github.com/user-attachments/assets/419126ac-97f1-47e8-acd0-553216cc8620" />
 
 
 <br/>
