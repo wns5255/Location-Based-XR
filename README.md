@@ -13,9 +13,7 @@
 
 ## 📸 Project Showcase
 
-> 아래 이미지는 예시입니다. `samples/` 폴더에 캡처를 넣고 경로를 맞춰주세요.
-
-![Demo Preview](samples/jkcgs-30-3-133-g12.tif)
+![Demo Preview]([samples/jkcgs-30-3-133-g12.tif](https://github.com/wns5255/Location-Based-XR/blob/7030614618bb94ec468930c3acd985636ce4ee96/samples/jkcgs-30-3-133-g12.tif)
 ![Demo Preview](samples/jkcgs-30-3-133-g8.tif)
 ![Demo Preview](samples/jkcgs-30-3-133-g9.tif)
 
